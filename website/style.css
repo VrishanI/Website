@@ -170,13 +170,11 @@ body.dark-mode .social-icon:hover {
   box-shadow: 0 2px 8px rgba(0,0,0,0.04);
 }
 .exp-logo {
-  width: 48px;
-  height: 48px;
+  width: 64px;
+  height: 64px;
   object-fit: contain;
-  background: #fff;
-  border-radius: 8px;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.07);
-  padding: 0.3rem;
+  margin-right: 10px;
+  vertical-align: middle;
 }
 .exp-item span {
   display: block;
